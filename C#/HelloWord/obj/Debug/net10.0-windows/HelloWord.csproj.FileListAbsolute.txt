@@ -1,0 +1,17 @@
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\bin\Debug\net10.0-windows\HelloWord.exe
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\bin\Debug\net10.0-windows\HelloWord.deps.json
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\bin\Debug\net10.0-windows\HelloWord.runtimeconfig.json
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\bin\Debug\net10.0-windows\HelloWord.dll
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\bin\Debug\net10.0-windows\HelloWord.pdb
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.Form1.resources
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.csproj.GenerateResource.cache
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.AssemblyInfoInputs.cache
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.AssemblyInfo.cs
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.csproj.CoreCompileInputs.cache
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.dll
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\refint\HelloWord.dll
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.pdb
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.genruntimeconfig.cache
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\ref\HelloWord.dll
+C:\Luiza\Faculdade\Projetos\C#\HelloWord\obj\Debug\net10.0-windows\HelloWord.csproj.Up2Date
