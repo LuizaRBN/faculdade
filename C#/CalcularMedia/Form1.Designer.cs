@@ -152,6 +152,7 @@
             Controls.Add(llblNota3);
             Controls.Add(lblNota2);
             Controls.Add(lblNota1);
+            ForeColor = SystemColors.ControlDark;
             Name = "FormMedia";
             Text = "Calcular Média";
             ResumeLayout(false);
